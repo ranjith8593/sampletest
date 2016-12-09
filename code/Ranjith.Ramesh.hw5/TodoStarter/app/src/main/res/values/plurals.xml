@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals
+        name="dueitem">
+        <item quantity="zero">no TodoItem </item>
+        <item quantity="one">one TodoItem </item>
+        <item quantity="other">%d  TodoItem</item>
+    </plurals>
+</resources>

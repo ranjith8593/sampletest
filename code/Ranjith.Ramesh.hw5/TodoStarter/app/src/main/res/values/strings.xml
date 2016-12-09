@@ -1,0 +1,17 @@
+<resources>
+	<string name="app_name">Todo Starter</string>
+	<string name="edit">Edit</string>
+	<string name="priority">Priority</string>
+	<string name="description">Description</string>
+	<string name="name">Name</string>
+	<string name="sample_name">Sample Name</string>
+	<string name="sample_description">Sample Description</string>
+	<string name="_1">1</string>
+	<string name="done">Done</string>
+	<string name="cancel">Cancel</string>
+	<string name="due_time">Due Time</string>
+	<string name="snooz">snooz</string>
+	<string name="due_time_txt">Due Time</string>
+	<string name="status">Status</string>
+	<string name="finish">Finish</string>
+</resources>

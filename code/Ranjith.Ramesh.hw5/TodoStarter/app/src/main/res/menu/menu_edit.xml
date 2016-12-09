@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/done"
+        android:icon="@drawable/ic_save_24dp"
+        android:title="@string/done"
+        app:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/cancel"
+        android:icon="@drawable/ic_clear_24dp"
+        android:title="@string/cancel"
+        app:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/snooz"
+        android:icon="@drawable/ic_notifications_paused_black_24dp"
+        android:title="@string/snooz"
+        app:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/finish"
+        android:icon="@drawable/ic_alarm_on_white_24dp"
+        android:title="@string/finish"
+        app:showAsAction="ifRoom|withText" />
+
+</menu>
